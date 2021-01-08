@@ -1,0 +1,9 @@
+how to compile this "masterpiece":
+
+win sdk version: 10.0.18362.0
+platform toolset: vs19 (v142)
+c++ lang standard: iso c++17 standard (/std:c++17)
+
+before compiling make sure to set:
+
+release/x86 (warnings are warnings, not errors!:3)
